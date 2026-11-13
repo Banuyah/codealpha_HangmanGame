@@ -1,0 +1,2 @@
+# No external dependencies required.
+# Tkinter and random are part of Python's standard library.
